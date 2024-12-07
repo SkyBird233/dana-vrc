@@ -1846,7 +1846,7 @@ MonoBehaviour:
   menuSource_otherObjectChildren: {fileID: 0}
   isSynced: 1
   isSaved: 1
-  isDefault: 0
+  isDefault: 1
   automaticValue: 1
   label: 
 --- !u!114 &802245205
@@ -2922,7 +2922,7 @@ MonoBehaviour:
   menuSource_otherObjectChildren: {fileID: 0}
   isSynced: 1
   isSaved: 1
-  isDefault: 0
+  isDefault: 1
   automaticValue: 1
   label: 
 --- !u!114 &1843840947
